@@ -23,4 +23,14 @@ Explore the checkbox feature by selecting and unselecting checkboxes, checking w
 - Both checkboxes could be selected and unselected successfully.
 - Both checkboxes could be checked at the same time.
 - Selecting one checkbox did not prevent the other from remaining selected.
-- Refresh
+- Refreshing the page restored the original checkbox states.
+
+## Conclusion
+
+The checkbox feature behaved as expected during all the checks performed. No defects were identified.
+
+**Total test checks:** 7  
+**Passed:** 7  
+**Failed:** 0
+
+**Overall Result:** Successful testing with no confirmed defects.
