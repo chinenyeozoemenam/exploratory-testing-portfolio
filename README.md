@@ -44,6 +44,29 @@ Six exploratory testing sessions were completed. Test results, observations and 
 
 This project represents my ongoing journey in learning software quality assurance and developing practical testing skills.
 
+## JavaScript Alerts Testing
+
+### Project Overview
+Tested JavaScript Alert, Confirm, and Prompt pop-ups on The Internet demo website to verify that each pop-up behaves as expected.
+
+### Test Scenarios
+
+| Test | Action | Expected Result | Actual Result |
+|---|---|---|---|
+| JS Alert | Clicked JS Alert and selected OK | Success message displayed | Passed |
+| JS Confirm | Clicked JS Confirm and selected OK | Confirmation message displayed | Passed |
+| JS Prompt | Entered "Chinenye QA Test" and selected OK | Entered text displayed | Passed |
+
+### Test Evidence
+Screenshots are available in the `Evidence/JavaScript_Alerts/` folder.
+
+### Test Summary
+- Total test scenarios: 3
+- Passed: 3
+- Failed: 0
+- Testing type: Functional Testing
+- Testing approach: Manual Testing
+
 ## Author
 
 **QA Learner | Aspiring Software Tester**
