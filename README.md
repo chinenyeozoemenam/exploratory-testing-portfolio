@@ -94,5 +94,6 @@ This project involved manual testing of the Gmail login page to verify that it b
 - Pass Rate: 100%
 
 ## Author
+- [Gmail Login Test Cases (Word Document)](gmail%20login%20test%20case.docx)
 
 **QA Learner | Aspiring Software Tester**
