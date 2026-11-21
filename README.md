@@ -67,6 +67,32 @@ Screenshots are available in the `Evidence/JavaScript_Alerts/` folder.
 - Testing type: Functional Testing
 - Testing approach: Manual Testing
 
+- ## Gmail Login Testing Project
+
+This project involved manual testing of the Gmail login page to verify that it behaved as expected under different conditions.
+
+### Testing Activities
+- Created 30 test cases.
+- Performed positive and negative testing.
+- Tested invalid login details and empty fields.
+- Tested special characters and long inputs.
+- Recorded actual and expected results.
+- Executed all 30 test cases manually.
+
+### Testing Tools
+- Google Chrome
+- Microsoft Excel
+
+### Project Documents
+- [Gmail Login Test Plan](Gmail_Login_Test_Plan.md)
+- [Gmail Login Test Execution Report](Gmail_Login_Test_Execution_Report.md)
+
+### Test Results
+- Total Test Cases: 30
+- Passed: 30
+- Failed: 0
+- Pass Rate: 100%
+
 ## Author
 
 **QA Learner | Aspiring Software Tester**
